@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE operations SYSTEM "histo.dtd">
+<operations>
+  <operation>
+    <type>other</type>
+    <horodate>2022-11-29 16:13:46</horodate>
+    <desc>Création du fichier XML</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-15 18:55:05</horodate>
+    <desc>La taille (38-&gt;18) et le poids (42-&gt;27) de Bulbizarre [id=1] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-15 18:55:47</horodate>
+    <desc>La taille (16-&gt;500) et le poids (520-&gt;9999) de Gallame [id=475] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-16 11:22:53</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-16 11:23:02</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Original).</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-16 11:23:51</horodate>
+    <desc>La taille (9-&gt;8) et le poids (340-&gt;45) de Porygon-Z [id=474] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-16 14:02:47</horodate>
+    <desc>La taille (19-&gt;15) et le poids (455-&gt;180) de Tokotoro [id=787] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-16 14:11:27</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-16 14:15:15</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Original).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-22 13:41:23</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-22 14:08:23</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-22 15:13:57</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-23 15:40:23</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-24 19:51:02</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Original).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-24 19:51:26</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-24 19:52:46</horodate>
+    <desc>La taille (5-&gt;6) et le poids (90-&gt;250) de Carapuce [id=7] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-24 19:53:26</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-24 20:01:24</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Original).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-24 20:01:42</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-24 20:02:39</horodate>
+    <desc>La taille (4-&gt;7) et le poids (60-&gt;50) de Pikachu [id=25] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-24 20:03:11</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 02:51:09</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 02:52:47</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 02:55:59</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 02:56:57</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 03:01:11</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 03:04:18</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 03:26:24</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-25 03:27:03</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-28 14:40:05</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-28 14:40:08</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Original).</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-28 14:40:23</horodate>
+    <desc>La taille (20-&gt;3) et le poids (69-&gt;6) de Abo [id=23] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-28 14:40:38</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-31 19:29:04</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Original).</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-31 19:29:11</horodate>
+    <desc>Récupération des tous les Pokemon et leurs types en base (Français).</desc>
+  </operation>
+  <operation>
+    <type>modify</type>
+    <horodate>2023-03-31 19:29:32</horodate>
+    <desc>La taille (10-&gt;15) et le poids (600-&gt;666) de Magnéton [id=82] modifiés.</desc>
+  </operation>
+  <operation>
+    <type>display</type>
+    <horodate>2023-03-31 19:29:53</horodate>
+    <desc>Récupération de tous les types de Pokémon en base</desc>
+  </operation>
+</operations>
